@@ -1,5 +1,3 @@
 # CSDS
 
-## test
-
-### Hello World!
+This is for class select dialogue system
