@@ -10,8 +10,8 @@ import pandas as pd
 data = pd.read_csv('2017-2018-2-graduate-0.csv', sep='\t')
 # display table
 data.info() 
-dept = data['开课院系']
+dept = data['开课院系'].value_count(dropna=False)
 name = data['课程名']
 for i in dept.index:
-  print(dept[i])
+  print(i)
 ```
