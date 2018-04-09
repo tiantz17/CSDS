@@ -8,7 +8,8 @@ This is for class select dialogue system
 import pandas as pd
 
 data = pd.read_csv('2017-2018-2-graduate-0.csv', sep='\t')
-data.info() // display information
+# display table
+data.info() 
 dept = data['开课院系']
 name = data['课程名']
 for i in dept.index:
