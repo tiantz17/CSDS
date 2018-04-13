@@ -1,45 +1,45 @@
 dept	经管学院	经管,经济管理
 dept	社科学院	社科,社会科学
-dept	法学院	法学,法律
-dept	美术学院	美院,美术
-dept	外文系	外语,外文
-dept	公管学院	公管,公共管理
-dept	工业工程	工业工程系,工业工程学院
-dept	人文学院
-dept	电子系
-dept	计算机系
-dept	建筑学院
-dept	数学系
-dept	航院
-dept	苏世民书院
-dept	自动化系
-dept	体育部
-dept	土木系
-dept	新闻学院
-dept	生命学院
-dept	环境学院
-dept	金融学院
-dept	医学院
-dept	工物系
-dept	材料学院
-dept	马克思主义学院
-dept	物理系
-dept	水利系
-dept	软件学院
-dept	机械系
-dept	能动系
-dept	电机系
-dept	化工系
-dept	微纳电子系
-dept	化学系
-dept	地学系
-dept	教研院
-dept	汽车系
-dept	核研院
-dept	精仪系
-dept	网络研究院
-dept	交叉信息院
-dept	图书馆
-dept	学生部
-dept	药学院
-dept	周培源数学中心
+dept	法学院	法学,法律,法
+dept	美术学院	美,美术
+dept	外文系	外语,外文,外
+dept	公管学院	公管,公共管理,管
+dept	工业工程	工工,工
+dept	人文学院	人文
+dept	电子系	电子,电子工程
+dept	计算机系	计算机,贵,计
+dept	建筑学院	建筑,建
+dept	数学系	数学,数
+dept	航院	航天航空,航空航天,航
+dept	苏世民书院	苏世民,苏世民书,苏
+dept	自动化系	自动化,自
+dept	体育部	体育
+dept	土木系	土木,土木工程
+dept	新闻学院	新闻
+dept	生命学院	生命,生物,生
+dept	环境学院	环境,环
+dept	金融学院	金融,五道口,五道口金融
+dept	医学院	医,医学
+dept	工物系	工物,工程物理
+dept	材料学院	材料
+dept	马克思主义学院	马克思主义,马克思,马
+dept	物理系	物理,物
+dept	水利系	水利,水
+dept	软件学院	软件,软
+dept	机械系	机械,机械工程
+dept	能动系	能动,能源与动力工程,能源与动力,能源动力
+dept	电机系	电机,电机工程,电机工程与应用电子技术
+dept	化工系	化工,化学工程
+dept	微纳电子系	微纳电子,微电子,微电,微
+dept	化学系	化学,化
+dept	地学系	地学,地球系统科学,地球科学,地球,地
+dept	教研院	教研
+dept	汽车系	汽车,汽,车
+dept	核研院	核能与新能源技术研究,核能与新能源,核能,核
+dept	精仪系	精仪,精密仪器,精
+dept	网络研究院	网络研究,网络,网
+dept	交叉信息院	交叉信息研究,交叉信息,交叉,叉,姚班
+dept	图书馆	图书
+dept	学生部	学生
+dept	药学院	药学,药
+dept	周培源数学中心	周培源数学,周培源,周
